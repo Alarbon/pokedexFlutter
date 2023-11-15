@@ -1,0 +1,38 @@
+name: practica_obligatoria2
+description: This is an application whose objetive is doing a pokedex copy with flutter.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.1.2 <4.0.0"
+
+dependencies:
+  audioplayers: ^5.2.0
+ 
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/audioIntro.mp3
+    - assets/imagenCarga.png
+    - assets/tituloAppbar.png
+    - assets/pokeball.png
+    - assets/firstGenerationBox.png
+    - assets/secondGenerationBox.png
+    - assets/thirdGenerationBox.png
+    - assets/fourthGenerationBox.png
+    - assets/fifthGenerationBox.png
+    - assets/sixthGenerationBox.png
+    - assets/seventhGenerationBox.png
+    - assets/eighthGenerationBox.png
+    - assets/ninthGenerationBox.png
+    - assets/poke_loading.gif
+
