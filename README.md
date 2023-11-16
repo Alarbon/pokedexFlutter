@@ -1,4 +1,4 @@
-# Esta es una version de una Pokédex de una forma bruta, sin controlador y sin separar codigo para observar como de necesario un controller para organizarse
+-Esta representación es una versión inicial de una Pokédex, sin el uso de un controlador y sin modularización del código. Esta aproximación bruta permite observar la necesidad de incorporar un controlador para mejorar la organización y la estructura del código.
 
 # Esta es la estuctura de la app
 
