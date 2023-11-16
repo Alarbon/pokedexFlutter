@@ -1,5 +1,3 @@
--Esta representación es una versión inicial de una Pokédex, sin el uso de un controlador y sin modularización del código. Esta aproximación bruta permite observar la necesidad de incorporar un controlador para mejorar la organización y la estructura del código.
-
 # Esta es la estuctura de la app
 
 ![Estructura de la Aplicación](https://cdn.discordapp.com/attachments/1173755894958395393/1174783340830797824/DIAGRAMA.drawio_1.png?ex=6568d93e&is=6556643e&hm=472dccf43c7881eb19d1403d65feb169fc48176008e1b62bcada198c45099407&raw=true)
@@ -35,3 +33,16 @@
 - **Otras widgets comunes de Flutter:** `Scaffold`, `SafeArea`, `IconButton`, `Text`, `Row`, `Column`, `SizedBox`, etc.
 
 Este código representa una pantalla interactiva que proporciona información detallada sobre Pokémon, permitiendo a los usuarios explorar diferentes generaciones y ver detalles específicos de cada Pokémon.
+
+# HomePageScreen
+
+![Captura de Pantalla 1](https://cdn.discordapp.com/attachments/1173755894958395393/1174785044494176256/727bbf00-92d5-4e65-87d5-4cd7c98ea2eb.png?ex=6568dad5&is=655665d5&hm=a51f38b0f9514a3b9781a6b07b5966fd349b4609271edf2909644e4791b6b926)
+
+![Captura de Pantalla 2](https://cdn.discordapp.com/attachments/1173755894958395393/1174785084507836446/3010dfef-3f73-4d25-94bb-d822f2f4dcfa.png?ex=6568dade&is=655665de&hm=b62eef39fa4c0f952d8663ffff5521d93e988adcaadce7da315570160df28c39)
+
+![Captura de Pantalla 3](https://cdn.discordapp.com/attachments/1173755894958395393/1174785226501795852/0f52310e-1bbc-43c1-8c8a-e22a534bf139.png?ex=6568db00&is=65566600&hm=9f28583ef46d55424ed0862436acb04431e80ed20098d5704e35f2ef901bc3bd)
+
+![Captura de Pantalla 4](https://cdn.discordapp.com/attachments/1173755894958395393/1174785274941816893/58b57109-e34c-471d-9a1a-8cee01257770.png?ex=6568db0c&is=6556660c&hm=33aebbf04ff5c59aae40eaaf7c2c388c021d3caf41b12a214d06e485a4447943)
+
+`HomePageScreen` es una versión inicial de una Pokédex en Flutter, sin el uso de un controlador y sin modularización del código. Esta aproximación bruta permite observar la necesidad de incorporar un controlador para mejorar la organización y la estructura del código.
+
